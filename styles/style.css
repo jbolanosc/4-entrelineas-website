@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-landing{
+    height: 150vh;
+    background: url('../img/bg.jpg') no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.bg-footer{
+    background: url('../img/bgfooter.png') no-repeat;
+    background-size: cover;
+}
+
+.barras{
+    max-width: 100%;
+}
+
+.d-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.align{
+    align-items: flex-end;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.s-position{
+    z-index: 1;
+}
+
+.style-none{
+    list-style: none;
+}
+
